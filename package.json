@@ -1,0 +1,24 @@
+{
+  "name": "ms-node",
+  "version": "1.0.0",
+  "description": "My MS with Node JS + ExpressJS",
+  "main": "index.js",
+  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurosls/ms-node-js.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurosls/ms-node-js/issues"
+  },
+  "homepage": "https://github.com/maurosls/ms-node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expressjs": "^1.0.1"
+  }
+}
